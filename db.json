@@ -2,21 +2,16 @@
   "facesnaps": [
     {
       "title": "The path to the erdtree",
+      "updateType": "News",
       "intro": "This path is full of challenges and dangerous foes",
       "description": "Explore a vast and immersive world filled with random loot all over the place (Seriously, did this game go trougth a randomizer)",
       "createdAt": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 420,
+      "snaps": 5,
       "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/01.jpg",
       "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/01.jpg",
-      "reactionsCount": [
-        {
-          "count": 1,
-          "id": ":love",
-          "name": "Love",
-          "emoji": "🥰"
-        }
-      ],
+      "reactionsCount": [],
       "id": 1,
+      "newsId": 0,
       "location": "The Lands Between, Limgrave"
     },
     {
@@ -25,43 +20,52 @@
       "intro": "How to combat",
       "description": "Improvements to the combat system and game mechanics",
       "createdAt": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 6,
+      "snaps": 8,
       "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/03.jpg",
       "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/03.jpg",
       "reactionsCount": [
         {
           "count": 1,
-          "id": ":flushed",
+          "id": ":cold:",
+          "name": "Cold",
+          "emoji": "🥶"
+        },
+        {
+          "count": 1,
+          "id": ":flushed:",
           "name": "Flushed",
           "emoji": "😳"
         }
       ],
       "id": 2,
+      "newsId": 0,
       "location": "Fort Reprimande"
     },
     {
+      "updateType": "Chat",
       "title": "A strange creature",
       "intro": "I encountered a weird and scary humanoid creature ",
       "description": "I found this creature sitting and wipping near a sick Erdtree. Anyone know what it is ?",
       "createdAt": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 156,
+      "snaps": 2,
       "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/05.jpg",
       "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/05.jpg",
       "reactionsCount": [
         {
           "count": 1,
-          "id": ":hot",
-          "name": "Hot",
-          "emoji": "🥵"
+          "id": ":crying:",
+          "name": "Crying",
+          "emoji": "😭"
         },
         {
           "count": 1,
-          "id": ":crying",
-          "name": "Crying",
-          "emoji": "😭"
+          "id": ":weary_face:",
+          "name": "Weary",
+          "emoji": "😩"
         }
       ],
       "id": 3,
+      "newsId": 0,
       "location": "At Altus Plateau"
     },
     {
@@ -70,32 +74,51 @@
       "intro": "How to make those cool jumps with torrents",
       "description": "You can use the double jump to make really cool jumps. Here's how...",
       "createdAt": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 89,
+      "snaps": 8,
       "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/02.jpg",
       "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/02.jpg",
       "reactionsCount": [],
       "id": 4,
+      "newsId": 0,
       "location": "Paris"
     },
     {
-      "id": 5,
-      "title": "Three Rock Mountain",
-      "description": "Un endroit magnifique pour les randonnées.",
-      "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/04.jpg",
-      "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/04.jpg",
+      "title": "Une rencontre innatendu mais bienvenue",
+      "updateType": "Chat",
+      "intro": "J'ai rencontré une servante des doigts avec des atouts très intéressant",
+      "description": "En allant me reposer à un site de grace, j'ai rencontré une servante des deux doigts avec beaucoup de doigté. J'aurais aimé qu'elle soit la à chaque fois que je monte de niveau et pas juste quand il y a un endroit ou donner un bout de trivia.",
       "createdAt": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 27,
-      "location": "la montagne",
-      "reactionsCount": []
+      "snaps": 3,
+      "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/06.jpg",
+      "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/06.jpg",
+      "reactionsCount": [
+        {
+          "count": 1,
+          "id": ":hot:",
+          "name": "Hot",
+          "emoji": "🥵"
+        },
+        {
+          "count": 1,
+          "id": ":love:",
+          "name": "Love",
+          "emoji": "🥰"
+        }
+      ],
+      "id": 5,
+      "newsId": 0,
+      "location": "Limgrave"
     },
     {
       "id": 6,
-      "title": "Un bon repas",
-      "description": "Mmmh que c'est bon !",
-      "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/06.jpg",
-      "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/06.jpg",
-      "createdAt": "new Date()",
-      "snaps": 101,
+      "newsId": 0,
+      "updateType": "Chat",
+      "title": "Combat à cheval",
+      "intro": "Le combat à cheval peut être épique mais aussi genant",
+      "description": "J'ai toujours autant de mal de me battre à cheval",
+      "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/04.jpg",
+      "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/04.jpg",
+      "snaps": 1,
       "reactionsCount": []
     },
     {
@@ -106,15 +129,9 @@
       "snaps": 1,
       "thumbnailUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/thumb/54.jpg",
       "imageUrl": "https://media.fromsoftware.jp/eldenring/resources/images/movieandimages/screenshot/4k/54.jpg",
-      "reactionsCount": [
-        {
-          "count": 1,
-          "id": ":love",
-          "name": "Love",
-          "emoji": "🥰"
-        }
-      ],
+      "reactionsCount": [],
       "id": 7,
+      "newsId": 0,
       "location": "In the Land of Shadow - beginner's area"
     }
   ]
